@@ -27,7 +27,7 @@ PM_START_TEXT = """
 
 -› يدعم تشغيل الملفات الصوتية في المجموعات
 
--› MᥲᎥꪀƚᥲᎥꪀᥱძ ხy -› [S᥆ᥙrᥴᥱ](https://t.me/wx_pm)
+-› MᥲᎥꪀƚᥲᎥꪀᥱძ ხy -› [S᥆ᥙrᥴᥱ](https://t.me/HuntrThon)
 """
 
 START_TEXT = """
