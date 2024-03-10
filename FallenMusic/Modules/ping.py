@@ -47,13 +47,13 @@ async def ping_fallen(_, message: Message):
 
     await hmm.edit_text(
         f"""➻ البنك هو : `{resp} ثانية`""",
-        reply_markup=InlineKeyboardMarkup(
+        reply_markup=InlineKeyboardMarkup(<
             [
                 [
                     InlineKeyboardButton("- قناة الدعم .", url=config.SUPPORT_CHAT),
                     InlineKeyboardButton(
                         "- السورس .",
-                        url="https://t.me/wx_pm",
+                        url="https://t.me/HunerThon",
                     ),
                 ],
             ]
